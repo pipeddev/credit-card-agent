@@ -1,5 +1,6 @@
 strands-agents
 anthropic
+openai
 python-dotenv
 rich
 fastmcp
