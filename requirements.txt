@@ -1,0 +1,6 @@
+strands-agents
+anthropic
+python-dotenv
+rich
+fastmcp
+mcp
